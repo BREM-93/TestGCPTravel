@@ -1,6 +1,22 @@
 # Europe-Travel-Website-html-css-js
-Create A Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
-A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step
+We introduce you to a  Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
+A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step.
+
+
+This website has been deployed in different Google Cloud platforms for running applications, each with varying degrees of infrastructure management and control. 
+
+| Deployment Service |  URL                                                       | Right |
+|:-------------------|:----------------------------------------------------------:|------:|
+| GCE                | http://35.226.61.142/                                      | $1600 |
+| GKE                | http://35.226.14.17/                                       |       |
+| Cloud Run          | https://europe-travel-llc-881298148164.us-central1.run.app |       |
+| App Engine         | https://miguelburgos-dev.uc.r.appspot.com/                 |       |
+
+URL of the repository from Github:
+
+https://github.com/BREM-93/TestGCPDockerRepo.git
+
+See the content on main branch.
 
 # Members: 
 Douglas Balmore Perez Beltran
