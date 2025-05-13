@@ -19,9 +19,10 @@ https://github.com/BREM-93/TestGCPTravel.git
 See the content on main branch.
 
 # Members: 
-Douglas Balmore Perez Beltran
+Douglas Balmore Perez Beltran\
 Miguel Eduardo Rivas Burgos
 
-# HTML
-# CSS
-# JS
+#Files in this repo:
+- HTML
+- CSS
+- JS
